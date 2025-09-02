@@ -1,0 +1,9 @@
+dash
+pandas
+plotly
+numpy 
+dash-bootstrap-components
+bokeh
+matplotlib 
+seaborn
+pycountry-convert
